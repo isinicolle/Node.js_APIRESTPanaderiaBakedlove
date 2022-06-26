@@ -1,0 +1,22 @@
+{
+  "name": "panaderiabakedlove",
+  "version": "1.0.0",
+  "description": "Panaderia Bakedlove elaborado por Isis Zapata",
+  "main": "index.js",
+  "scripts": {
+    "test": "api"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isinicolle/Node.js_APIRESTPanaderiaBakedlove.git"
+  },
+  "author": "isinicolle (Isis Zapata)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isinicolle/Node.js_APIRESTPanaderiaBakedlove/issues"
+  },
+  "homepage": "https://github.com/isinicolle/Node.js_APIRESTPanaderiaBakedlove#readme",
+  "dependencies": {
+    "express-generator": "^4.16.1"
+  }
+}
