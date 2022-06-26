@@ -26,7 +26,11 @@
 
 ✅Node.js
 
+✅ORM Prisma
+
 ✅Express
+
+✅ And more!
 
 ## DATABASE: 
 
